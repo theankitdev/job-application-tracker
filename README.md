@@ -29,7 +29,7 @@ I am building this project to help college students track their job applications
 # Setup Instructions
 1.Clone the Repository
 
-   https://github.com/ankitdeveloper7/Job-Application-Tracker.git
+   https://github.com/theankitdev/job-application-tracker.git
    
 2.Navigate to the Project Directory
 
